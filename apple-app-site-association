@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "ZURF44Z8JT.com.zelland.zelland",
-            "paths": ["*"]
+            "paths": ["/invite"]
         }]
     }
 }
